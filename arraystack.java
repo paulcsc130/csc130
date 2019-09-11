@@ -1,4 +1,4 @@
-//Given file ArrayStack.java Only edits on line 10
+//Given file ArrayStack.java Only edits on line 12
 
 package itu.data.structure.stack; 
 
