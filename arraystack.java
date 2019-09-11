@@ -1,4 +1,6 @@
-package itu.data.structure.stack;
+//Given file ArrayStack.java Only edits on line 10
+
+package itu.data.structure.stack; 
 
 
 /**
@@ -7,7 +9,7 @@ package itu.data.structure.stack;
 public class ArrayStack<T> implements StackADT<T>{
 
 	private T[] stack;
-	private T[] peek;
+	private T[] peek; // Part Added
 	private int top;
 	private final static int LIMIT_SIZE = 50;
 	
